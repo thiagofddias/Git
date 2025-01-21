@@ -1,6 +1,8 @@
 ![Logo do git]()
 
-#Curso de Git e Github 
+[Bem vindo] ()
+
+# Curso de Git e Github 
 
 Nesse curso vocew vai dominar todo o **git** e o  **github** _do zero ao profissional_ 
 
@@ -48,3 +50,11 @@ function showName(name){
     return "Bem vindo!" + name;
 }
 ```
+
+
+**Tabela**
+
+Propriedade | Descricao
+----------- | ---------
+name | Informar o nome do user
+size | Informar tamanho
