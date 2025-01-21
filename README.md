@@ -3,7 +3,8 @@
 [Bem vindo](#curso-de-git-e-github) |
 [Modulos](#modulos---lista) |
 [Rede Social](#rede-social---links) |
-[Blockquote](#blockquote) 
+[Blockquote](#blockquote) |
+[Tabela](#tabela)
 
 # Curso de Git e Github 
 
